@@ -1,0 +1,11 @@
+{
+    "blacklist": [
+        "fake-paypal.com",
+        "phishing-site.com"
+    ],
+    "whitelist": [
+        "google.com",
+        "github.com",
+        "microsoft.com"
+    ]
+}
